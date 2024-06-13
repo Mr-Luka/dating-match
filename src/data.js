@@ -22,7 +22,7 @@ export const filterOptions = [
 ];
 
 
-export const friends = [
+export const guys = [
   {
     id: 123,
     name: "Anixar",
